@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on our elective project and thesis.
 - 🌱 I’m currently learning Laravel Framework and ReactJS.
 - 🤔 I’m looking for help with local and cloud database, and backend programming
-- ⚡ Fun fact: Mostly interested in frontend and JavaScript programming.
+- ⚡ Fun fact: Mostly interested in frontend and JavaScript programming && designing .
 
 ***
 
@@ -37,12 +37,12 @@
 
 **🎨Design**
 
- 
-> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v2.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png"/><img  src="https://img.icons8.com/cute-clipart/48/000000/canva.png"/>
+> <img src="https://img.icons8.com/color/35/000000/adobe-illustrator--v2.png"/> <img src="https://img.icons8.com/color/35/000000/adobe-xd--v2.png"/> <img src="https://img.icons8.com/color/35/000000/adobe-photoshop--v2.png"/><img  src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/>
 
 *** 
 
-![Ms. Yosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ms-Yosa&show_icons=true&theme=merko)
+![Ms. Yosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ms-Yosa&show_icons=true&theme=merko) 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ms-Yosa&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 
 
