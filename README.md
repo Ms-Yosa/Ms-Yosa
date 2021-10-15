@@ -3,7 +3,6 @@
 </h2>
 
 > *A Senior College student taking up Bachelor of Science in Computer Engineering  at Polytechnic University of the Philippines-Manila.*
-
 ***
 
 <img align="left" alt="GIF" height="120px"  src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
@@ -11,7 +10,7 @@
 
 - 🔭 I’m currently working on our elective project and thesis.
 - 🌱 I’m currently learning Laravel Framework and ReactJS.
-- 🤔 I’m looking for help with local and cloud database, and backend programming
+- 🤔 I’m looking for help with local and cloud database, and backend programming.
 - ⚡ Fun fact: Mostly interested in frontend and JavaScript programming && designing .
 
 ***
