@@ -1,6 +1,6 @@
-<h2 align="center">
-<img alt="GIF" height="50px"src="https://media.giphy.com/media/SvidICxdLgdlJxUeQZ/giphy.gif" /> It's me, Jian !
-</h2>
+<h1 align="center">
+<img alt="GIF" height="50px"src="https://media.giphy.com/media/SvidICxdLgdlJxUeQZ/giphy.gif" />  It's me, Jian !
+</h1>
 
 > *A Senior College student taking up Bachelor of Science in Computer Engineering  at Polytechnic University of the Philippines-Manila.*
 ***
@@ -15,7 +15,7 @@
 
 ***
 
-**🛠️Languages and Tools:** 
+<h3> 🛠️Languages and Tools: </h3>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-Yosa&layout=compact&theme=merko"/>
 
@@ -37,7 +37,7 @@
 
 ***
 
-**🎨Design**
+<h3> 🎨Design: </h3>
 
 > <img src="https://img.icons8.com/color/35/000000/adobe-illustrator--v2.png"/> <img src="https://img.icons8.com/color/35/000000/adobe-xd--v2.png"/> <img src="https://img.icons8.com/color/35/000000/adobe-photoshop--v2.png"/><img  src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/>
 
