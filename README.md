@@ -43,7 +43,7 @@
 
 *** 
 
-<img width="450px" src="https://github-readme-stats.vercel.app/api?username=Ms-Yosa&show_icons=true&theme=merko"/> <img width="450px" src="http://github-readme-streak-stats.herokuapp.com?user=Ms-Yosa&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=Ms-Yosa&show_icons=true&theme=merko"/> <img width="420px" src="http://github-readme-streak-stats.herokuapp.com?user=Ms-Yosa&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 
 
 
