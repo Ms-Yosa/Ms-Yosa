@@ -15,10 +15,13 @@
 
 **🛠️Languages and Tools:** 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-Yosa&layout=compact&theme=merko"/>
 
-> [![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)](#)
+
+
+> [![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)](#) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
-[![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
+[![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) <br>
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)](#)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
@@ -37,6 +40,11 @@
  
 > <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v2.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png"/><img  src="https://img.icons8.com/cute-clipart/48/000000/canva.png"/>
 
+*** 
 
-![Ms. Yosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ms-Yosa&show_icons=true&theme=merko) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-Yosa&layout=compact&theme=merko)](https://github.com/Ms-Yosa/github-readme-stats)
+![Ms. Yosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ms-Yosa&show_icons=true&theme=merko)
+
+
+
+
+
