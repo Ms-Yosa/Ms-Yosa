@@ -1,5 +1,5 @@
 <h2 align="center">
- It's me, Jian <img alt="GIF" height="50px"src="https://media.giphy.com/media/SvidICxdLgdlJxUeQZ/giphy.gif" />
+<img alt="GIF" height="50px"src="https://media.giphy.com/media/SvidICxdLgdlJxUeQZ/giphy.gif" /> It's me, Jian !
 </h2>
 
 > *A Senior College student taking up Bachelor of Science in Computer Engineering  at Polytechnic University of the Philippines-Manila.*
