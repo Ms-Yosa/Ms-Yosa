@@ -43,11 +43,11 @@
 
 *** 
 
-<img width="420px" src="https://github-readme-stats.vercel.app/api?username=Ms-Yosa&show_icons=true&theme=merko"/> <img width="420px" src="http://github-readme-streak-stats.herokuapp.com?user=Ms-Yosa&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+<!-- <img width="420px" src="https://github-readme-stats.vercel.app/api?username=Ms-Yosa&show_icons=true&theme=merko"/> <img width="420px" src="http://github-readme-streak-stats.herokuapp.com?user=Ms-Yosa&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+ -->
 
 
-
-<!-- ![Ms. Yosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ms-Yosa&show_icons=true&theme=merko) 
+<!-- ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Ms-Yosa&show_icons=true&theme=merko) 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ms-Yosa&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 
