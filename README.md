@@ -34,6 +34,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
 
 > [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)](#)
+> [![Firebase](https://img.shields.io/badge/-Firabase-FF2D20?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FF2D20)](#)
 
 ***
 
