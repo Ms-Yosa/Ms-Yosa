@@ -30,7 +30,7 @@
 
 
 > [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&labelColor=black&logo=visual%20studio%20code&logoColor=007ACC)](#)
-[![Arduino](https://img.shields.io/badge/-Arduino_IDE-00979D?style=for-the-badge&labelColor=black&logo=arduino&logoColor=00979D)](#)
+<!-- [![Arduino](https://img.shields.io/badge/-Arduino_IDE-00979D?style=for-the-badge&labelColor=black&logo=arduino&logoColor=00979D)](#) -->
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
 
 > [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)](#)
