@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on our elective project and thesis.
 - 🌱 I’m currently learning Laravel Framework and ReactJS.
 - 🤔 I’m looking for help with local and cloud database, and backend programming.
-- ⚡ Fun fact: Mostly interested in frontend and JavaScript programming && designing .
+
 
 ***
 
