@@ -7,13 +7,6 @@
 
 <img align="left" alt="GIF" height="120px"  src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
 
-
-
-
-
-***
-***
-
 <h3> 🛠️Languages and Tools: </h3>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-Yosa&layout=compact&theme=merko"/>
