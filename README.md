@@ -8,8 +8,6 @@
 <img align="left" alt="GIF" height="120px"  src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
 
 
-- 🔭 I’m currently working on our elective project and thesis.
-- 🌱 I’m currently learning Laravel Framework and ReactJS.
 
 
 
