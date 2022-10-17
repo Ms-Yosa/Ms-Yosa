@@ -2,7 +2,7 @@
 <img alt="GIF" height="50px"src="https://media.giphy.com/media/SvidICxdLgdlJxUeQZ/giphy.gif" />  It's me, Jian !
 </h1>
 
-> *A Senior College student taking up Bachelor of Science in Computer Engineering  at Polytechnic University of the Philippines-Manila.*
+> **
 ***
 <!--
 <img align="left" alt="GIF" height="120px"  src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
