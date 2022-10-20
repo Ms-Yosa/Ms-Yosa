@@ -2,7 +2,7 @@
 <img alt="GIF" height="50px"src="https://media.giphy.com/media/SvidICxdLgdlJxUeQZ/giphy.gif" />  It's me, Jian !
 </h1>
 
-> **
+> 
 ***
 
 <!-- <img align="left" alt="GIF" height="120px"  src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" /> -->
@@ -35,8 +35,8 @@
 
 <h3> 🎨Design: </h3>
 
-> 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+ 
+>![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -44,15 +44,18 @@
 
 ***
 
-<h3> 💬Socials: </h3>
-> <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/wave/" />  It's me, Jian !
+<!-- <h3> 💬Social: </h3>
+
+ 
+>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)![Gmail](https://img.shields.io/badge/yosa.jilliancr@gmail.com-white?style=for-the-badge&logo=java&logoColor=black) <br>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)![Linkedin](https://img.shields.io/badge/www.linkedin.com/in/yosa%2djillianclarizze-white?style=for-the-badge&logo=linkedin&logoColor=black)(<br>
+
+ -->
 
 
 
 
 
-
-*** 
 
 <img width="420px" src="https://github-readme-stats.vercel.app/api?username=Ms-Yosa&show_icons=true&theme=merko"/> <img width="420px" src="http://github-readme-streak-stats.herokuapp.com?user=Ms-Yosa&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 
