@@ -16,7 +16,7 @@
 
 > [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
 [![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) 
-![Bootstrap](https://img.shields.io/badge/-Bootstap-%23563D7C.svg?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=23563D7C) <br>
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C.svg?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=23563D7C) <br>
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)](#)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
