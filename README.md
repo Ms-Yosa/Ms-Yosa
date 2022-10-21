@@ -1,5 +1,5 @@
 <h1 align="center">
-<img alt="GIF" height="50px"src="https://media.giphy.com/media/SvidICxdLgdlJxUeQZ/giphy.gif" />  It's me, Jian !
+<img alt="GIF" height="50px"src="https://media.giphy.com/media/SvidICxdLgdlJxUeQZ/giphy.gif" />  
 </h1>
 
 > 
